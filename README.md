@@ -19,16 +19,13 @@ Siga os passos abaixo para configurar o ambiente e instalar as dependências:
 ```bash
 #clonar o repositório
 git clone https://github.com/jorgeplatero/alura-dashboard-vendas.git
-cd alura-dashboard-vendas
+cd relatorio-vendas-web-app
 
 #criar o ambiente virtual
 python -m venv venv
 
 #ativar o ambiente virtual
-# No Linux/Mac:
 source venv/bin/activate
-# No Windows:
-venv\Scripts\activate
 
 #instalar as dependências
 pip install -r requirements.txt
