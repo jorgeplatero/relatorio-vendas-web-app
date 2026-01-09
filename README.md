@@ -1,15 +1,13 @@
 # Aplicativo Web com Relatório de Vendas
 
-## Descrição do Projeto
-
 Este é um aplicativo web com relatório de vendas realizado em curso de Streamlit da Alura.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="60" height="60"/>
 
-## Link para a Aplicação
+### Deploy
 
-Dashboard Streamlit: <a style="text-decoration:none;" href="https://aluradashboardvendas.streamlit.app/" target="_blank">link</a>.
+Link para o aplicativo: https://aluradashboardvendas.streamlit.app/
 
