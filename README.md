@@ -48,7 +48,7 @@ streamlit run app.py
 | :--- | :--- | :--- | :--- |
 | **Frontend/App** | **Streamlit** | `1.32.2` | Framework utilizado para o desenvolvimento do aplicativo web |
 | **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca utilizada para manipulação de dados |
-| **Visualização** | **Plotly** |`5.20.0` | Biblioteca para criação de gráficos dinâmicos |
+| **Visualização** | **Plotly** |`5.20.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
 | **Linguagem** | **Python** | `>=3.11` | Linguagem de programação base para o desenvolvimento dos scripts |
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
